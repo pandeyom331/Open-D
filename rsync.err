@@ -1,0 +1,2 @@
+rsync: link_stat "/home/ompandey/ic-projects/opend/opend/…" failed: No such file or directory (2)
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1207) [sender=3.1.3]
